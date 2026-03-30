@@ -752,8 +752,3 @@ class CandleStrategy(Strategy):
             return True
 
         return False
-
-
-
-
-        #rtehdjdj
